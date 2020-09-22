@@ -6,14 +6,14 @@ EnhanceZombie:
   Drop:
   - rotten_flesh 1-4 1
   KillMessages:
-  - '<target.name>はゾンビに食い殺された'
+  - '<target.name>はゾンビに殴り殺された'
   Options:
     AlwaysShowname: true
     Despawm: true
     KnockbackResistance: 0
     PreventItemPickup: false
     PreventOtherDrops: true
-    MovementSpeed: 0.2
+    MovementSpeed: 0.4
   Modules:
     ThreatTable: true
   Skills:
